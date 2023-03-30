@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integtest", "integtest\integtest.csproj", "{A23312D2-5843-4892-8856-ECFB9A3B8772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleValidateServiceTests", "TriangleValidateServiceTests\TriangleValidateServiceTests.csproj", "{CA326B33-8CEB-4DE8-9B69-DB748BB35FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23312D2-5843-4892-8856-ECFB9A3B8772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23312D2-5843-4892-8856-ECFB9A3B8772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23312D2-5843-4892-8856-ECFB9A3B8772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23312D2-5843-4892-8856-ECFB9A3B8772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA326B33-8CEB-4DE8-9B69-DB748BB35FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA326B33-8CEB-4DE8-9B69-DB748BB35FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA326B33-8CEB-4DE8-9B69-DB748BB35FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA326B33-8CEB-4DE8-9B69-DB748BB35FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E3545E7-316D-4A40-819C-6410073CB704}
+	EndGlobalSection
+EndGlobal
